@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "school-attendance",
+    "slug": "snack-9dfebc14-51e1-4ed9-8e50-9f6dda2cf69c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.taggggggggggggggggghhhkjjj.snack9dfebc1451e14ed98e509f6dda2cf69c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
